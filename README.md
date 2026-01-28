@@ -1,2 +1,45 @@
-# supply-chain-efficiency-analysis-dataco
-SQL &amp; Power BI Analysis focused on delivery SLA compliance and portfolio optimization
+# 📦 Global Supply Chain Efficiency Analysis
+
+### 📊 Executive Summary
+**Goal:** Analyze delivery performance across international shipping modes to identify inefficiencies and cost-saving opportunities.
+**Result:** Identified a critical SLA breach in 'First Class' shipments and recommended a strategic portfolio consolidation, leading to a potential **$24,300 annual saving**.
+
+![Dashboard Preview](dashboard_overview.png)
+*(Click to view the full interactive design)*
+
+---
+
+## 🛠️ Tools & Technologies
+* **Data Processing:** Python (Pandas) for cleaning, SQL (PostgreSQL) for Data Warehousing.
+* **Data Modeling:** Star Schema design (Facts & Dimensions).
+* **Visualization:** Power BI (DAX Measures, Bookmark Navigation, Custom UX).
+* **Techniques:** SLA Analysis, Pareto Principle (80/20), KPI tracking.
+
+---
+
+## 🔍 Key Findings & Recommendations
+
+### 1. The "First Class" Promise Failure
+* **Problem:** The data revealed a **100% failure rate** for 'First Class' shipments regarding the 1-day delivery promise.
+* **Business Risk:** High potential for customer churn and refunds due to missed SLAs.
+* **Recommendation:** Recalibrate the website promise to **2-3 days** (creating a safety buffer) while maintaining the premium price point.
+
+### 2. The "Second Class" Inefficiency
+* **Problem:** 'Second Class' shipments show an 80% delay rate and generate lower profit margins compared to 'Standard Class'.
+* **Strategic Action:** **Discontinue 'Second Class'.**
+* **Impact:** By migrating volume to Standard Class, we simplify logistics operations and realize an estimated **$24,300 in annual savings**.
+
+---
+
+## 📂 Project Structure
+This repository contains:
+* `Supply_Chain_Analysis.pdf`: The full executive report with geographic drill-downs.
+* `SQL_Scripts/`: (Optional) The extraction and transformation logic.
+* `Images/`: Dashboard screenshots.
+
+---
+
+### 📩 Contact
+* **Author:** Marina [Tu Apellido]
+* **Role:** Data Analyst / BI Developer
+* [Link to your LinkedIn Profile]
