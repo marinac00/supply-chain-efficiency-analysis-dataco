@@ -4,13 +4,14 @@
 **Goal:** Analyze delivery performance across international shipping modes to identify inefficiencies and cost-saving opportunities.
 **Result:** Identified a critical SLA breach in 'First Class' shipments and recommended a strategic portfolio consolidation, leading to a potential **$24,300 annual saving**.
 
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](Global Supply Chain Efficiency Analysis.png)
+![Dashboard Preview](Global Delay Hotspots.png)
 *(Click to view the full interactive design)*
 
 ---
 
 ## 🛠️ Tools & Technologies
-* **Data Processing:** Python (Pandas) for cleaning, SQL (PostgreSQL) for Data Warehousing.
+* **Data Processing:** SQL (PostgreSQL) for Cleaning and Data Warehousing.
 * **Data Modeling:** Star Schema design (Facts & Dimensions).
 * **Visualization:** Power BI (DAX Measures, Bookmark Navigation, Custom UX).
 * **Techniques:** SLA Analysis, Pareto Principle (80/20), KPI tracking.
@@ -33,13 +34,13 @@
 
 ## 📂 Project Structure
 This repository contains:
-* `Supply_Chain_Analysis.pdf`: The full executive report with geographic drill-downs.
+* `Global Supply Chain Efficiency.pdf`: The full executive report with geographic drill-downs.
 * `SQL_Scripts/`: (Optional) The extraction and transformation logic.
 * `Images/`: Dashboard screenshots.
 
 ---
 
-### 📩 Contact
-* **Author:** Marina [Tu Apellido]
+### 
+* **Author:** Marina Cancela
 * **Role:** Data Analyst / BI Developer
-* [Link to your LinkedIn Profile]
+
