@@ -4,8 +4,8 @@
 **Goal:** Analyze delivery performance across international shipping modes to identify inefficiencies and cost-saving opportunities.
 **Result:** Identified a critical SLA breach in 'First Class' shipments and recommended a strategic portfolio consolidation, leading to a potential **$24,300 annual saving**.
 
-![Dashboard Preview](Global Supply Chain Efficiency Analysis.png)
-![Dashboard Preview](Images/Global Delay Hotspots.png)
+![Dashboard Preview](Global_Supply_Chain_Efficiency_Analysis.png)
+![Dashboard Preview](Global_Delay_Hotspots.png)
 *(Click to view the full interactive design)*
 
 ---
@@ -38,9 +38,9 @@ The dataset used for this analysis is the **DataCo Smart Supply Chain for Big Da
 
 ## 📂 Project Structure
 This repository contains:
-* `Global Supply Chain Efficiency.pdf`: The full executive report with geographic drill-downs.
-* `SQL_Scripts/`: (Optional) The extraction and transformation logic.
-* `Images/`: Dashboard screenshots.
+* `Global_Supply_Chain_Efficiency.pdf`: The full executive report with geographic drill-downs.
+*  SQL scripts: the extraction and transformation logic.
+*  Dashboard screenshots.
 
 ---
 
