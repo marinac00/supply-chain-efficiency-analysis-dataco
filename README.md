@@ -5,7 +5,7 @@
 **Result:** Identified a critical SLA breach in 'First Class' shipments and recommended a strategic portfolio consolidation, leading to a potential **$24,300 annual saving**.
 
 ![Dashboard Preview](Global Supply Chain Efficiency Analysis.png)
-![Dashboard Preview](Global Delay Hotspots.png)
+![Dashboard Preview](Images/Global Delay Hotspots.png)
 *(Click to view the full interactive design)*
 
 ---
@@ -46,5 +46,5 @@ This repository contains:
 
 ### 
 * **Author:** Marina Cancela
-* **Role:** Data Analyst / BI Developer
+* **Role:** Data Analyst / BI Developer Jr
 
