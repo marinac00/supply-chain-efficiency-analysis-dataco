@@ -15,7 +15,9 @@
 * **Data Modeling:** Star Schema design (Facts & Dimensions).
 * **Visualization:** Power BI (DAX Measures, Bookmark Navigation, Custom UX).
 * **Techniques:** SLA Analysis, Pareto Principle (80/20), KPI tracking.
-* 
+
+---
+
 * ## 💾 Data Source
 The dataset used for this analysis is the **DataCo Smart Supply Chain for Big Data Analysis**, available publicly.
 * [[Link to original dataset](https://data.mendeley.com/datasets/8gx2fvg2k6/5)] 
