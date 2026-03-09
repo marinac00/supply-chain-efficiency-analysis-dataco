@@ -1,4 +1,4 @@
-# 📦 Global Supply Chain Efficiency Analysis
+# 📦 Global Shipping & Delivery Efficiency Analysis
 
 ### 📊 Executive Summary
 **Goal:** Analyze delivery performance across international shipping modes to identify inefficiencies and cost-saving opportunities.
